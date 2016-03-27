@@ -1,4 +1,4 @@
 <?php
-	echo "Merhaba Dunya";
+	echo "Merhaba Dunya\n";
 	echo "Merhaba Heroku";
 ?>
