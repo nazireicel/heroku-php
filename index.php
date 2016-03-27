@@ -1,4 +1,4 @@
 <?php
-	echo "Merhaba dunya";
-	echo "Insallah calisir Rabbim";
+	echo "Merhaba Dünya";
+	echo "Merhaba Heroku";
 ?>
